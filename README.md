@@ -26,7 +26,7 @@ AboutMe
 
 ###
 
-<p align="left">I'm Jesse Esteta from Philippines<br><br>- 🔭 I’m Studying as a BSCPE <br>- 📚 I'm currently learning Python and C++ languages<br>- ⚡ In my free time I Like to play games and read Manhwa and Manga</p>
+<p align="left">I'm Jesse Esteta from Philippines<br><br>- 🔭 I’m Studying as a 1st Year BSCPE Student in TIP <br>- 📚 I'm currently learning Python and C++ languages<br>- ⚡ In my free time I Like to play games and read Manhwa and Manga</p>
 
 ###
 
